@@ -11,6 +11,7 @@ Once that is done we visualize the data using dashboard/reports
 
 
 
+![gif](https://github.com/shreeafk/Advance_FFD/blob/main/Advance_FFD/extras/Sequence%2001.gif)
 
 
 
