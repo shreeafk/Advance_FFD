@@ -16,10 +16,10 @@ Once that is done we visualize the data using dashboard/reports
 
 
 # Contributers 
-[Shreeyash](https://www.linkedin.com/in/dataanalyst101/)
-[Shaan]
-[shireen]
-[Aheesh]
+### [Shreeyash](https://www.linkedin.com/in/dataanalyst101/)
+### [Shaan]
+### [shireen]
+### [Aheesh]
 
 
 
