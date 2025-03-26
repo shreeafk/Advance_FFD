@@ -18,9 +18,7 @@ Once that is done we visualize the data using dashboard/reports
 # Contributers 
 ### [Shreeyash](https://www.linkedin.com/in/dataanalyst101/)
 ### [Shaan](https://www.linkedin.com/in/mohammed-shaan-a-r-6b1208201)
-### [Shireen]
-### [Aheesh]
-
+### [Shireen](https://www.linkedin.com/in/shireen-sadhik-287130271)
 
 
 
