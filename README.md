@@ -1,7 +1,7 @@
 # Advance Fraud detection 
 
 This project focus on resolving issues related to financial fraud by implementing ML Algorithms and training the model on the [kaggle](https://www.kaggle.com/datasets/sriharshaeedala/financial-fraud-detection-dataset) dataset to look for suspicious transactions and highlight
-the same To achive this we use multiple methods in unsupervied and supervised learning algorithm and focus on high accuracy without overfiting. 
+the same To achieve this we use multiple methods in unsupervied and supervised learning algorithm and focus on high accuracy without overfitting. 
 
 ![Image](https://github.com/user-attachments/assets/4862c463-852b-4abf-94ec-e497d38defef)
 
@@ -53,7 +53,7 @@ measures, thereby improving financial security and regulatory compliance.
 ### [Shreeyash](https://www.linkedin.com/in/dataanalyst101/)
 ### [Shaan](https://www.linkedin.com/in/mohammed-shaan-a-r-6b1208201)
 ### [Shireen](https://www.linkedin.com/in/shireen-sadhik-287130271)
-
+### [Aheesh](http://linkedin.com/in/k-aheesh-madhyastha-9856592aa)
 
 
 
