@@ -53,7 +53,7 @@ measures, thereby improving financial security and regulatory compliance.
 ### [Shreeyash](https://www.linkedin.com/in/dataanalyst101/)
 ### [Shaan](https://www.linkedin.com/in/mohammed-shaan-a-r-6b1208201)
 ### [Shireen](https://www.linkedin.com/in/shireen-sadhik-287130271)
-
+### [Aheesh](http://linkedin.com/in/k-aheesh-madhyastha-9856592aa)
 
 
 
